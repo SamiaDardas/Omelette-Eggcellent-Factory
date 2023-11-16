@@ -2,12 +2,12 @@ body{
     background-color: rgb(255, 242, 167);
 }
 p{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif
    font-size: larger;
    color: khaki;
 }
 h5{
-    color: khaki; 
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255); 
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
