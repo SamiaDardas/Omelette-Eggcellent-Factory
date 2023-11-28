@@ -2,13 +2,23 @@ body{
     background-color: rgb(255, 242, 167);
 }
 p{
+<<<<<<< HEAD
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
 
    color: rgb(255, 255, 255);
+=======
+    font-family:Georgia, 'Times New Roman', Times, serif, 'Arial Narrow', Arial, sans-serif;
+   font-size: larger;
+   color: khaki;
+>>>>>>> 6369aa4a755b21c4c6f7476b7601eee11119317e
 }
 h5{
     color: rgb(255, 255, 255); 
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
+.checked {
+    color: orange;
+
+  }
 
