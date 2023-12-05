@@ -45,3 +45,15 @@ p{
     .poo{
         color: aliceblue;
     }
+    center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        }
+        @media screen and (max-width:350px){
+            body{
+                background-color: cornflowerblue;
+            }
+        }
+    
